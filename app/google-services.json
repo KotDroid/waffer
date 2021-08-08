@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "450918327830",
+    "firebase_url": "https://waffer-7ecf5-default-rtdb.firebaseio.com/",
+    "project_id": "waffer-7ecf5",
+    "storage_bucket": "waffer-7ecf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450918327830:android:8ffda87853561fb5b63737",
+        "android_client_info": {
+          "package_name": "com.waffer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450918327830-rb7mtv0imqesomld35herq39p7hojcfn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.waffer",
+            "certificate_hash": "a90582915a9f98cfc921bdf110c41ab6a4d5a89d"
+          }
+        },
+        {
+          "client_id": "450918327830-422m98k2k6n53h5b6s6h063to61qjtb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsMmo_aYVWak4j0FC936x3BwuLkqNYWJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450918327830-422m98k2k6n53h5b6s6h063to61qjtb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450918327830:android:a223eee95cded6ddb63737",
+        "android_client_info": {
+          "package_name": "com.waffer.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450918327830-9b2n3t0m0nugsa1di0pfnfbsuve63ue1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.waffer.app",
+            "certificate_hash": "a90582915a9f98cfc921bdf110c41ab6a4d5a89d"
+          }
+        },
+        {
+          "client_id": "450918327830-422m98k2k6n53h5b6s6h063to61qjtb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsMmo_aYVWak4j0FC936x3BwuLkqNYWJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450918327830-422m98k2k6n53h5b6s6h063to61qjtb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450918327830:android:35f8cdff8c42c22db63737",
+        "android_client_info": {
+          "package_name": "com.waffer.webapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450918327830-kpvrdqk2c1jvs1qg5rims0tdru4mvbtd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.waffer.webapp",
+            "certificate_hash": "a90582915a9f98cfc921bdf110c41ab6a4d5a89d"
+          }
+        },
+        {
+          "client_id": "450918327830-422m98k2k6n53h5b6s6h063to61qjtb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsMmo_aYVWak4j0FC936x3BwuLkqNYWJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450918327830-422m98k2k6n53h5b6s6h063to61qjtb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

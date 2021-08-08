@@ -1,0 +1,42 @@
+package com.waffer.webapp.Model;
+
+import com.google.gson.annotations.Expose;
+import com.google.gson.annotations.SerializedName;
+import com.waffer.webapp.Model.Provider.ProfileServices;
+
+import java.util.List;
+
+/**
+ * Created by Tregix on 3/8/2018.
+ */
+
+public class ManageServicesRequestParam {
+
+    @SerializedName("profile_services")
+    @Expose
+    private List<ProfileServices> services;
+    @SerializedName("user_id")
+    @Expose
+    private Integer userId;
+
+    public ManageServicesRequestParam(int uid, List<ProfileServices> services){
+        this.services = services;
+        this.userId = uid;
+    }
+
+    public List<ProfileServices> getServices() {
+        return services;
+    }
+
+    public void setServices(List<ProfileServices> services) {
+        this.services = services;
+    }
+
+    public Integer getUserId() {
+        return userId;
+    }
+
+    public void setUserId(Integer userId) {
+        this.userId = userId;
+    }
+}
